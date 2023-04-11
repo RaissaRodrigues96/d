@@ -1,0 +1,14 @@
+header,footer{
+    padding:2em;
+    color: black;
+    background-color: orange;
+ }
+ 
+li {
+display: inline;
+border: solid 1px;
+padding: 0.5em;
+}
+a{
+color: white;
+}
